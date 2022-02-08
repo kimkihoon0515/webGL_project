@@ -7,7 +7,8 @@
 
 ## 주의사항
 Texture를 입히는 과정에서 이미지 파일을 로컬에서 크롬브라우저가 보안상의 이유로 불러올 수 없기 때문에 Web Server For Chrome을 사용한다.
-![Web](/uploads/b030e33d19e8fc03767c92dedf97ad0d/Web.png)
+![image](https://user-images.githubusercontent.com/63439911/152922733-3e46d1d8-4bcd-45a8-97af-698d043bafe9.png)
+
 
 ## Texture Mapping 을 하는 이유
 ![texture](/uploads/4676c16b4ca19f39c06f8336426e9820/texture.png)  
